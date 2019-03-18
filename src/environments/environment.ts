@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  fireconfig:{
+    apiKey: "AIzaSyDz9tH_mlOwk881s6LkxTI_xJDljSa-x9A",
+    authDomain: "byculla-fire-station.firebaseapp.com",
+    databaseURL: "https://byculla-fire-station.firebaseio.com/",
+    projectId: "byculla-fire-station",
+    storageBucket: "byculla-fire-station.appspot.com",
+    messagingSenderId: "560201586393"
+  
+  }
 };
 
 /*

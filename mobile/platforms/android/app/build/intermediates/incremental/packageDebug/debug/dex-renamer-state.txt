@@ -1,0 +1,4 @@
+#Sun Mar 17 11:59:06 IST 2019
+base.0=C\:\\Users\\Tania Rajabally\\Desktop\\Firestation\\mobile\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

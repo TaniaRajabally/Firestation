@@ -1,0 +1,13 @@
+.img {
+    background-image: url("src\assets\safety.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+ }
+
+ .aa {
+    font-family:"Comic Sans MS";
+    font-size: 22px;
+   } 
