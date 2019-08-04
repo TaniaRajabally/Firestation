@@ -1,3 +1,6 @@
+A website and android application for a firestation to increase its reachability. Markers could be placed by the admin on the map to identify places where fire occured and hence help could be provided immediately. Sentiment Analysis of tweets was done to analysis the impact of the incident. Chatbot was provided for assistance.The website was made using angular and firebase. Cordova was used to generate an apk.
+
+
 # Firestation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
